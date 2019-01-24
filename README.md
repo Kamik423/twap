@@ -14,7 +14,7 @@ So I wrote this program in Python to help me analyze this.
 3. Install dependencies:
 
 ```bash
-pip3 install -r requirements.txt
+pip3 install -r dependencies.txt
 ```
 
 4. Empty `data.json` (to contain only `{}`), and create a file `key.json` containing a Twitter API key (that is required, sorry). The file should look like this:
